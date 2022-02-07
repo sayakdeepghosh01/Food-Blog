@@ -30,7 +30,7 @@ div.register{
     font-size: 18px;
     border-radius: 10px;
     border: 1px solid rgba(255,255,255,0.3);
-    box-shadow: 2px 2px 2px 12px rgba(0,0,0,0.3)
+    box-shadow: 2px 2px 2px 12px rgba(0,0,0,0.3);
     color: #fff;
  
 }
@@ -68,7 +68,7 @@ input#submit{
     background-color: rgba(250,100,0,0.8);
     color: #fff;
     cursor: pointer;
-    border:1px solid rgba(255,255,255,0.3)
+    border:1px solid rgba(255,255,255,0.3);
     box-shadow:1px 1px 5px rgba(0,0,0,0.3);
     margin-bottom:20px;
 
